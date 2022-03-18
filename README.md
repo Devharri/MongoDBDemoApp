@@ -1,4 +1,4 @@
-MongoDBDemoApp
+#MongoDBDemoApp
 
 Simple Mongo DB Atlas CRUD with console application, C# and MongoDB.Driver nuget-package
 
